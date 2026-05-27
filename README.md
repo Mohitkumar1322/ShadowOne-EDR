@@ -10,31 +10,29 @@ ShadowOne is a modern SOC-style EDR platform built using Python, FastAPI, React,
 
 ## Main Dashboard
 
-```md id="2jlwm1"
-<img width="1659" height="864" alt="Screenshot 2026-05-27 132219" src="https://github.com/user-attachments/assets/0da31eab-26fc-4db4-82ce-569049a5abad" />
+<img width="1659" height="864" alt="Screenshot 2026-05-27 132219" src="https://github.com/user-attachments/assets/0f3d06ff-3471-4293-8a5c-8217e4d96598" />
 
-```
 
 ## Threat Intelligence
 
-```md id="8jlwm7"
+
 <img width="1858" height="919" alt="Screenshot 2026-05-27 124352" src="https://github.com/user-attachments/assets/040eab5d-6eeb-44b2-ae05-c39921bcd75a" />
 
-```
+
 
 ## Network Monitoring
 
-```md id="jlwmf9"
+
 <img width="1800" height="899" alt="Screenshot 2026-05-27 132748" src="https://github.com/user-attachments/assets/1989891f-5587-4daf-b5de-cccc81a028a7" />
 
-```
+
 
 ## Incident Correlation
 
-```md id="jlwmv6"
+
 <img width="1211" height="614" alt="Screenshot 2026-05-27 131042" src="https://github.com/user-attachments/assets/bc3d0088-b7c3-40a3-a65a-c2d478df821f" />
 
-```
+
 
 ---
 
